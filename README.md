@@ -16,3 +16,4 @@ My current languages:
 ![js](https://user-images.githubusercontent.com/112553226/233600533-2d1e8013-e478-4b40-9ae2-40ac80d9a4e2.png)
 
 
+![icons](https://user-images.githubusercontent.com/112553226/233600837-f14287fb-db17-4e6e-85bb-454b99a25cdc.svg)
