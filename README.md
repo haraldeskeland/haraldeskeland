@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on school projects.
-- 🌱 I’m currently learning JavaScript, MySQL, H2 Database, SpringBoot, Java, TailwindCSS
+- 🔭 I’m currently working on school projects and working part time with Cloud Operations at Ruter AS.
+- 🌱 I’m currently learning JavaScript, MySQL, H2 Database, SpringBoot, Java, TailwindCSS, node.js, react
 - 📫 How to reach me: harald_mathias@hotmail.com
 
 My current languages:
