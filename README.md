@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on school projects and working part time with Cloud Operations at Ruter AS.
+- 🔭 I’m currently studying Computer Engineering, and working part time with Cloud Operations at Ruter AS.
 - 🌱 I’m currently learning JavaScript, MySQL, H2 Database, SpringBoot, Java, TailwindCSS, node.js, react
 - 📫 How to reach me: harald_mathias@hotmail.com
 
