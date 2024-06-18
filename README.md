@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=haraldeskeland&color=green&style=for-the-badge)
 ### Hi there 👋
 
 
