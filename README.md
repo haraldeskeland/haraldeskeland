@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying Computer Engineering, and working part time with Cloud Operations at Ruter AS.
 - 🎹 In my spare time I enjoy working out and producing music. 
-- 🌱 I’m currently learning JavaScript, MySQL, H2 Database, SpringBoot, Java, TailwindCSS, node.js, react
+- 🌱 I’m currently learning .NET, C#, React, JavaScript, Node.js
 - 📫 How to reach me: harald_mathias@hotmail.com
 
 Technologies I´ve used so far:
