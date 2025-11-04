@@ -2,8 +2,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently studying Computer Engineering, and working part time with Cloud Operations at Ruter AS.
-- 🎹 In my spare time I enjoy working out and producing music. 
+- 🔭 I’m currently taking a masters in Programming and Systems architecture at University of Oslo., and working part time with Cloud Operations at Ruter AS.
+- 🎹 In my spare time I enjoy working out, producing music and run an Ecommerce store. 
 - 🌱 I’m currently learning .NET, C#, React, JavaScript, Node.js
 - 📫 How to reach me: harald_mathias@hotmail.com
 
