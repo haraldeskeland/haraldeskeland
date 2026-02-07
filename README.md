@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=haraldeskeland&color=green&style=for-the-badge&base=236)
 ### Hi there 👋
-Check out [my website]([URL](https://haraldeskeland.no/)) for more of my work.
+Check out [my website](https://haraldeskeland.no/) for more of my work.
 
 -  Currently working as a Frontend Developer in Publicis Norway
 -  In my spare time I enjoy working out, producing music and run Ecommerce stores. 
