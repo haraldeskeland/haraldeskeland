@@ -1,11 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=haraldeskeland&color=green&style=for-the-badge&base=236)
 ### Hi there 👋
+Check out [my website]([URL](https://haraldeskeland.no/)) for more of my work.
 
-
-- 🔭 I’m currently taking a masters in Programming and Systems architecture at University of Oslo, and working part time with Cloud Operations at Ruter AS.
-- 🎹 In my spare time I enjoy working out, producing music and run an Ecommerce store. 
-- 🌱 I’m currently learning .NET, C#, React, JavaScript, Node.js
-- 📫 How to reach me: harald_mathias@hotmail.com
+-  Currently working as a Frontend Developer in Publicis Norway
+-  In my spare time I enjoy working out, producing music and run Ecommerce stores. 
+-  Have a project in mind? Reach out to harald_mathias@hotmail.com
 
 Technologies I´ve used so far:
 
